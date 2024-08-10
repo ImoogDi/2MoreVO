@@ -23,7 +23,8 @@
 - [Final check](#final_check)
 - [License](#license)
 
-<hr>
+<hr> 
+
 ### Reference-voltage-Adjustment on '2MoreVO Backplane<a name="refvoltage_adjustment"></a>
 Reference-voltage-adjustment is done with precision trimmers 'RV1' and 'RV12' on the 'Backplane'.  
 
@@ -56,7 +57,8 @@ Measurement-points are **+2V** and **-2V** on 'Backplane B'.
 </tr>
 </table>
 
-<hr>
+<hr> 
+
 ### 'MoreVO-Core'-Adjustment for true 1V/octave-range<a name="morevo_core_adjustments"></a>
 
 For AS3340 calibration details see also URL: [AS3340 tuning](https://www.alfarzpp.lv/eng/sc/Tuning%20the%20AS3340.pdf)
@@ -184,7 +186,9 @@ Start calibration with one 'MoreVO_Core' and repeat it with the second one in fo
 Repead above steps for the second 'MoreVO_Core'.
 
 **1V/Octave calibration done**.
-<hr>
+
+<hr> 
+
 ### VCO2 sinusodial-Adjustment<a name="sinusodial_adjustment"></a>
 
 Preparation:
@@ -223,7 +227,8 @@ At least the output signal should look like the following waveform:
 ![VCO2 sinusodial output](./pictures/2MoreVO_ModOut_SINUS.png)
 
 
-<hr>
+<hr> 
+
 ### Final check<a name="final_check"></a>
 
 Preconditions:
@@ -357,7 +362,8 @@ Preconditions:
 </table>
 
 
-<hr>
-## License<a name="license"></a>
+<hr> 
+
+## License<a nam e="license"></a>
 > Hardware:cc by-nc-sa 4.0
 
